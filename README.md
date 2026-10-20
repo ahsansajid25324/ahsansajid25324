@@ -73,7 +73,7 @@ Full Stack Developer with experience building web applications and AI-powered pr
 
 ---
 
-**🍔 FLO.IO - Food Ordering & Restaurant Operations Platform** &nbsp; • &nbsp; *Avennex*
+**🍔 OTGEXP - Food Ordering & Restaurant Operations Platform** &nbsp; • &nbsp; *Avennex*
 
 A high-traffic food ordering platform serving 25K+ monthly active users, with an internal tip management system adopted by 160+ restaurants, automating reconciliation and payroll processing.
 
