@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33714097/README.md)
-## Hi there 👋
 
 <!--
 **ahsansajid25324/ahsansajid25324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
