@@ -1,34 +1,15 @@
+ <div align="center">
 
-<!--
-**ahsansajid25324/ahsansajid25324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# AHSAN SAJID
+### Full Stack Developer
 
-Here are some ideas to get you started:
+**React · Next.js · Node.js · Python · AI-powered Products**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---><div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║          AHSAN SAJID  ·  Full Stack Developer                ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-**React · Next.js · Node.js · Python · AI-powered products**
-
-📍 Karachi, Pakistan &nbsp;•&nbsp; 💼 Full Stack Developer @ Propomy &nbsp;•&nbsp; 🎓 BS Software Engineering, NED University
+📍 Karachi, Pakistan · 💼 Full Stack Developer @ Propomy · 🎓 BS Software Engineering, NED University
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ahsan--sajid.org-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ahsan-sajid.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-sajid-1b06a1171/)
-[![Email](https://img.shields.io/badge/Email-sajidahsan67@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajidahsan67@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajidahsan67@gmail.com)
 
 </div>
 
@@ -36,85 +17,127 @@ Here are some ideas to get you started:
 
 ## 👋 About Me
 
-Full Stack Developer with experience across three companies, building web platforms end to end: responsive React frontends, Node.js / FastAPI backends, and AI features such as RAG assistants and automated property valuation. I care about performance, clean APIs, and interfaces that people actually enjoy using.
-
----
-
-## 💼 Experience
-
-### 🏠 Propomy - AI Real Estate Platform &nbsp;•&nbsp; *Full Stack Developer (Nov 2025 – Present)*
-Realtor and investor platform with AI-powered property valuation (AVM), investment analytics, real-time APIs, interactive maps, and a fine-tuned RAG assistant with role-based access. I led the MVP and full-stack feature development across frontend, APIs, and valuation logic.
-
-`React` `Node.js` `Python` `FastAPI` `RAG` `Fine-tuning`
-
-### 🚀 Avennex - Client-Facing Web Applications &nbsp;•&nbsp; *Full Stack Developer (Jan 2025 – Oct 2025)*
-Architected and shipped MERN-stack features for client-facing apps. Cut page load times by **30%**, improved MongoDB query performance by **40%** and data retrieval times by **25%**, and maintained RESTful APIs and backend uptime across environments.
-
-`MongoDB` `Express.js` `React` `Node.js`
-
-### 🌍 Migraid.US - Migrant Consultation Platform &nbsp;•&nbsp; *Frontend Developer (Oct 2022 – Dec 2024)*
-Built responsive interfaces for a consultation platform where migrants find information and book appointments. Contributed to a **20%** increase in user engagement and a **40%** increase in mobile traffic through UI/UX improvements and performance optimization.
-
-`React` `JavaScript` `HTML/CSS` `Node.js`
-
----
-
-## 🧩 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| 🏠 **Propomy Web App** | AI real estate MVP with automated valuation, investment analytics, interactive maps, and a RAG assistant | Node.js, React, Python, FastAPI, RAG |
-| 🌍 **Migraid Consultation App** | Consultation and appointment booking for migrants, with authentication, dynamic forms, and secure backend routes | Node.js, React |
-| ✈️ **OTG Experience Platform** | High-traffic airport hospitality platform with digital ordering, contactless payments, and real-time order tracking | Node.js, React, Redux |
+Full Stack Developer with experience building web applications and AI-powered products end to end. I work across responsive React and Next.js frontends, Node.js backends, Python APIs, databases, third-party integrations, and AI solutions such as retrieval-augmented generation (RAG) assistants and automated property valuation. I focus on clean architecture, performance optimization, secure APIs, and scalable application development.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white)
 
-**Backend**
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)
 
-**Databases**
+### Databases & Caching
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
 
-**AI / ML**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+### AI & Machine Learning
 ![OpenAI](https://img.shields.io/badge/OpenAI_APIs-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
-RAG · Fine-tuning · Vector Embeddings · Agentic Workflows · Tool Calling · Semantic Search
+`RAG` · `Vector Embeddings` · `Semantic Search` · `LLM Integration` · `Tool Calling`
 
-**DevOps & Tools**
-![AWS](https://img.shields.io/badge/AWS_S3_/_EC2-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+### Cloud, DevOps & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white)
 
 ---
+
+## 🚀 Featured Projects
+
+### 🏢 Professional Work
+
+
+---
+
+**🍔 FLO.IO - Food Ordering & Restaurant Operations Platform** &nbsp; • &nbsp; *Avennex*
+
+A high-traffic food ordering platform serving 25K+ monthly active users, with an internal tip management system adopted by 160+ restaurants, automating reconciliation and payroll processing.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon SQS](https://img.shields.io/badge/Amazon_SQS-FF9900?style=flat-square&logo=amazonsqs&logoColor=white)
+![AWS Cognito](https://img.shields.io/badge/AWS_Cognito-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+---
+
+**🏠 Real Estate Listings Platform** &nbsp; • &nbsp; *Avennex*
+
+A full-scale real estate platform with 500K+ active listings and 20K+ monthly users, featuring automated data ingestion pipelines syncing 10K+ listings from external providers and optimized property search.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+---
+
+**🏡 Propomy - AI-powered Real Estate Investment Platform** &nbsp; • &nbsp; *Propomy*
+
+An AI-powered real estate platform for investors and realtors, featuring automated property valuations, rental income estimates, investment analytics, interactive property maps, and an AI assistant for property-related insights.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6F2DA8?style=flat-square)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
+
+---
+
+**🌍 Migraid.US - Migrant Consultation Platform**
+
+A consultation and appointment booking platform helping migrants access relevant information, complete dynamic forms, and book consultations through a responsive interface with secure backend integration.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
 ![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsansajid25324&show_icons=true&theme=github_dark&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsansajid25324&layout=compact&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsansajid25324&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
@@ -122,11 +145,14 @@ RAG · Fine-tuning · Vector Embeddings · Agentic Workflows · Tool Calling · 
 
 ## 📬 Let's Connect
 
-I'm open to interesting full stack and AI-product work. Reach me at **sajidahsan67@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/ahsan-sajid-1b06a1171/).
+I'm open to interesting full-stack development and AI-product opportunities.
+
+- **Portfolio:** [ahsan-sajid.org](https://ahsan-sajid.org)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ahsan-sajid-1b06a1171/)
+- **Email:** [sajidahsan67@gmail.com](mailto:sajidahsan67@gmail.com)
 
 <div align="center">
 
 ⭐ *Thanks for stopping by!*
 
 </div>
-
